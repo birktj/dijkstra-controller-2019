@@ -1,0 +1,11 @@
+[package]
+name = "coroutine"
+version = "0.1.0"
+authors = ["Birk Tjelmeland <birktjelmeland@yahoo.no>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies.coroutine-macro]
+path = "../coroutine-macro"
+nb = "0.1"

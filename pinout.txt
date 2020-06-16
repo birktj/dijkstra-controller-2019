@@ -1,0 +1,54 @@
+# Controller pinout
+
+left_pot: pa0
+mid_pot: pa1
+right_pot: pa2
+
+btn_1: pa3
+btn_2: pa4
+btn_3: pa5
+btn_4: pa6
+btn_5: pa7
+
+# leds clockwise
+led_1: pa11
+led_2: pa12
+led_3: pa15
+led_4: pb3
+led_5: pb4
+led_6: pb5
+led_7: pb6
+led_8: pb7
+
+serial_l_tx: pa9
+serial_l_rx: pa10
+serial_r_tx: pb10
+serial_r_rx: pb11
+
+
+# Driver pinout
+gear_sense: pa0
+gear_1: pa1
+gear_2: pa2
+gear_lim: pa3
+
+throttle_sense: pa4
+throttle_1: pa5
+throttle_2: pa6
+throttle_lim: pa7
+
+power_relay: pb0
+start_relay: pb1
+
+serial_tx: pa9
+serial_rx: pa10
+
+steering_ena: pb3
+steering_dir: pb4
+steering_pul: pb5
+steering_pend: pb6
+steering_alm: pb7
+steering_lim_l: pb8
+steering_lim_r: pb9
+
+
